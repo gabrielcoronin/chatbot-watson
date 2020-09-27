@@ -1,0 +1,3612 @@
+{
+  "intents": [
+    {
+      "intent": "agradecimento",
+      "examples": [
+        {
+          "text": "Danke"
+        },
+        {
+          "text": "Estou grata"
+        },
+        {
+          "text": "Estou grato"
+        },
+        {
+          "text": "Gracias"
+        },
+        {
+          "text": "Merci beaucoup"
+        },
+        {
+          "text": "Muchas gracias"
+        },
+        {
+          "text": "Muitissimo obrigado"
+        },
+        {
+          "text": "Muito grato"
+        },
+        {
+          "text": "Muito obrigada"
+        },
+        {
+          "text": "Muito obrigado"
+        },
+        {
+          "text": "Obg"
+        },
+        {
+          "text": "Obrigada"
+        },
+        {
+          "text": "Obrigada pelo contato!"
+        },
+        {
+          "text": "Obrigado"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Tks"
+        },
+        {
+          "text": "Ty"
+        },
+        {
+          "text": "Valeu"
+        },
+        {
+          "text": "Vlw"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cancelamento_matricula",
+      "examples": [
+        {
+          "text": "Anulação da matrícula"
+        },
+        {
+          "text": "Como cancelo a matricula?"
+        },
+        {
+          "text": "divida"
+        },
+        {
+          "text": "Gostaria de saber como cancelar a matrícula no curso"
+        },
+        {
+          "text": "Não da mais para eu pagar o curso"
+        },
+        {
+          "text": "Não poderei continuar o curso"
+        },
+        {
+          "text": "O que devo fazer para cancelar a matrícula?"
+        },
+        {
+          "text": "O que precisa para efetivar o cancelamento da minha matrícula"
+        },
+        {
+          "text": "Preciso cancelar minha matrícula"
+        },
+        {
+          "text": "Preciso cancelar minha matrícula com vocês"
+        },
+        {
+          "text": "Preciso cancelar minhas aulas"
+        },
+        {
+          "text": "Quais os trâmites para cancelamento do curso"
+        },
+        {
+          "text": "Quais passos devo seguir para cancelar a matrícula?"
+        },
+        {
+          "text": "Queria anular minha matricula, tenho que pagar alguma multa?"
+        },
+        {
+          "text": "Queria cancelar minha matrícula, estou no 2 período."
+        },
+        {
+          "text": "Queria o cancelamento da minha matrícula."
+        },
+        {
+          "text": "Quero cancelar a matricula"
+        },
+        {
+          "text": "Quero saber como cancelar a matricula"
+        },
+        {
+          "text": "Rescisão contratual"
+        },
+        {
+          "text": "Se eu cancelar agora, pago multa?"
+        },
+        {
+          "text": "Solicito o cancelamento do curso"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "contato",
+      "examples": [
+        {
+          "text": "cel"
+        },
+        {
+          "text": "contato"
+        },
+        {
+          "text": "contato da escola"
+        },
+        {
+          "text": "email"
+        },
+        {
+          "text": "e-mail"
+        },
+        {
+          "text": "e-mail da escola"
+        },
+        {
+          "text": "email da escola"
+        },
+        {
+          "text": "fone"
+        },
+        {
+          "text": "mail"
+        },
+        {
+          "text": "num"
+        },
+        {
+          "text": "number"
+        },
+        {
+          "text": "numero"
+        },
+        {
+          "text": "numero da escola"
+        },
+        {
+          "text": "tel"
+        },
+        {
+          "text": "telefone"
+        },
+        {
+          "text": "telefone da escola"
+        },
+        {
+          "text": "telefone fixo"
+        },
+        {
+          "text": "telegram"
+        },
+        {
+          "text": "whatsapp"
+        },
+        {
+          "text": "zap"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cursos_e_duracao",
+      "examples": [
+        {
+          "text": "Gostaria de começar um curso"
+        },
+        {
+          "text": "Gostaria de saber os cursos que vocês tem"
+        },
+        {
+          "text": "Quais aulas tem pra fazer?"
+        },
+        {
+          "text": "Quais conteúdos vocês tem disponíveis"
+        },
+        {
+          "text": "Quais cursos vocês tem?"
+        },
+        {
+          "text": "Quais idiomas vcs ensinam?"
+        },
+        {
+          "text": "Quais são as opções de cursos que vcs tem?"
+        },
+        {
+          "text": "Qual a duração dos cursos disponíveis?"
+        },
+        {
+          "text": "Qual a grade de aulas"
+        },
+        {
+          "text": "Quando começa o curso?"
+        },
+        {
+          "text": "Quando o curso presencial se inicia?"
+        },
+        {
+          "text": "Quanto tempo dura o curso?"
+        },
+        {
+          "text": "Que cursos vcs tem?"
+        },
+        {
+          "text": "Queria fazer um curso de alemão"
+        },
+        {
+          "text": "Queria saber mais sobre a aula de inglês."
+        },
+        {
+          "text": "Queria saber mais sobre as aulas de francês"
+        },
+        {
+          "text": "Quero fazer o curso de espanhol a distancia"
+        },
+        {
+          "text": "Quero informações sobre os cursos presenciais"
+        },
+        {
+          "text": "Quero saber informações sobre os cursos EAD"
+        },
+        {
+          "text": "Quero saber sobre os cursos online"
+        }
+      ]
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "adeus"
+        },
+        {
+          "text": "adios"
+        },
+        {
+          "text": "até"
+        },
+        {
+          "text": "até amanha"
+        },
+        {
+          "text": "até logo"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "até um dia"
+        },
+        {
+          "text": "beijo"
+        },
+        {
+          "text": "beijos"
+        },
+        {
+          "text": "bjs"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "falou"
+        },
+        {
+          "text": "falow"
+        },
+        {
+          "text": "flw"
+        },
+        {
+          "text": "hasta luego"
+        },
+        {
+          "text": "tchau"
+        },
+        {
+          "text": "tchauzin"
+        },
+        {
+          "text": "xau"
+        },
+        {
+          "text": "xauzin"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "duracao_contratual_e_termos",
+      "examples": [
+        {
+          "text": "Até quando vai meu contrato?"
+        },
+        {
+          "text": "Ate quando vai o contrato?"
+        },
+        {
+          "text": "Cade os termos do contrato"
+        },
+        {
+          "text": "Como posso acessar o meu contrato"
+        },
+        {
+          "text": "Como solicitar alteração no meu contrato"
+        },
+        {
+          "text": "Gostaria de saber sobre o meu contrato com vcs"
+        },
+        {
+          "text": "Onde consigo acessar as regras do meu contrato"
+        },
+        {
+          "text": "Onde consigo ver a duração do contrato"
+        },
+        {
+          "text": "Onde encontro o meu contrato"
+        },
+        {
+          "text": "Onde vejo os detalhes do contrato"
+        },
+        {
+          "text": "Pode dar outra cópia do meu contrato?"
+        },
+        {
+          "text": "Pode mandar meu contrato por e-mail?"
+        },
+        {
+          "text": "Por quanto tempo mais o meu contrato irá durar?"
+        },
+        {
+          "text": "Por quanto tempo o meu contrato com vocês irá durar?"
+        },
+        {
+          "text": "Posso ver o contrato?"
+        },
+        {
+          "text": "Quais cláusulas de duração do contrato?"
+        },
+        {
+          "text": "Quais os meus termos no contrato?"
+        },
+        {
+          "text": "Queria o contrato"
+        },
+        {
+          "text": "Tem uma segunda via de contrato?"
+        },
+        {
+          "text": "Vcs ainda tem o contrato do curso?"
+        }
+      ]
+    },
+    {
+      "intent": "endereco",
+      "examples": [
+        {
+          "text": "De qual cidade vocês são?"
+        },
+        {
+          "text": "Em que Estado vocês ficam?"
+        },
+        {
+          "text": "Em que local voces estão?"
+        },
+        {
+          "text": "Endereço"
+        },
+        {
+          "text": "Gostaria de saber o endereço de vocês."
+        },
+        {
+          "text": "Localização"
+        },
+        {
+          "text": "Onde cês ficam?"
+        },
+        {
+          "text": "Onde encontro vocês"
+        },
+        {
+          "text": "Onde vcs estao localizados?"
+        },
+        {
+          "text": "Onde vocês ficam?"
+        },
+        {
+          "text": "Onde vocês se localizam?"
+        },
+        {
+          "text": "Poderia me informar o endereço?"
+        },
+        {
+          "text": "Qual a região vocês estão localizados"
+        },
+        {
+          "text": "Qual a rua que vocês se localizam?"
+        },
+        {
+          "text": "Qual bairro vocês ficam?"
+        },
+        {
+          "text": "Qual o endereço da escola?"
+        },
+        {
+          "text": "Qual o endereço de vocês?"
+        },
+        {
+          "text": "Qual o local?"
+        },
+        {
+          "text": "Qual o logradouro de vocês?"
+        },
+        {
+          "text": "Quero saber o endereço"
+        }
+      ]
+    },
+    {
+      "intent": "formas_e_horas_de_atendimento",
+      "examples": [
+        {
+          "text": "Até que horas cês atendem?"
+        },
+        {
+          "text": "Até que horas vcs atendem?"
+        },
+        {
+          "text": "Até que horas vocês estão atendendo?"
+        },
+        {
+          "text": "Cadê o telefone?"
+        },
+        {
+          "text": "Como acho o telefone de vcs?"
+        },
+        {
+          "text": "Como faço pra ligar?"
+        },
+        {
+          "text": "Como posso falar com vocês?"
+        },
+        {
+          "text": "Gostaria de falar por outro canal"
+        },
+        {
+          "text": "Manda o telefone aí"
+        },
+        {
+          "text": "Quais as horas de funcionamento pra atendimento?"
+        },
+        {
+          "text": "Queria falar com alguém por telefone"
+        },
+        {
+          "text": "Queria falar via wpp"
+        },
+        {
+          "text": "Queria mandar um e-mail"
+        },
+        {
+          "text": "Quero conversar com uma pessoa de verdade"
+        },
+        {
+          "text": "Quero falar com uma pessoa real"
+        },
+        {
+          "text": "Quero o e-mail"
+        },
+        {
+          "text": "Tem pessoa real pra falar?"
+        },
+        {
+          "text": "Tem zap?"
+        },
+        {
+          "text": "Vcs tem whatsapp?"
+        },
+        {
+          "text": "Vocês teriam email?"
+        }
+      ]
+    },
+    {
+      "intent": "horario_de_funcionamento_da_escola_fisica",
+      "examples": [
+        {
+          "text": "Até que hora a escola fica aberta?"
+        },
+        {
+          "text": "Até que horas posso passar ai"
+        },
+        {
+          "text": "Até que horas vai funcionar aí?"
+        },
+        {
+          "text": "Até que horas vcs atendem por telefone?"
+        },
+        {
+          "text": "Até que horas vcs estão abertos?"
+        },
+        {
+          "text": "Até que horas vocês estão funcionando?"
+        },
+        {
+          "text": "Da tempo de eu passar na escola?"
+        },
+        {
+          "text": "De que hora vcs funcionam??"
+        },
+        {
+          "text": "Gostaria de visitá-los"
+        },
+        {
+          "text": "Gostaria de visitar a escola"
+        },
+        {
+          "text": "Hoje ta aberto?"
+        },
+        {
+          "text": "Posso passar na escola pra ver como é?"
+        },
+        {
+          "text": "Preciso resolver uma coisa aí na escola"
+        },
+        {
+          "text": "Preciso resolver umas questões na instituição"
+        },
+        {
+          "text": "Qual o horário de funcionamento de vocês?"
+        },
+        {
+          "text": "Queria saber as horas e dias de funcionamento"
+        },
+        {
+          "text": "Quero conhecer a escola"
+        },
+        {
+          "text": "Quero ver como é aí"
+        },
+        {
+          "text": "Vcs estão abertos hoje?"
+        },
+        {
+          "text": "Vocês irão estar abertos amanhã?"
+        }
+      ]
+    },
+    {
+      "intent": "matricula",
+      "examples": [
+        {
+          "text": "Como faço a matrícula?"
+        },
+        {
+          "text": "Como realizo a minha matricula?"
+        },
+        {
+          "text": "Desejo me inscrever em alemão"
+        },
+        {
+          "text": "Gostaria de fazer a matrícula"
+        },
+        {
+          "text": "Gostaria de me matricular em espanhol"
+        },
+        {
+          "text": "Inscrição pras aulas?"
+        },
+        {
+          "text": "Matrícula"
+        },
+        {
+          "text": "Matricular"
+        },
+        {
+          "text": "Por onde faço minha matricula?"
+        },
+        {
+          "text": "Quais passos devo seguir para fazer a matrícula"
+        },
+        {
+          "text": "Quando posso fazer a matrícula?"
+        },
+        {
+          "text": "Queria realizar a minha matrícula"
+        },
+        {
+          "text": "Quero começar o curso"
+        },
+        {
+          "text": "Quero começar o curso de inglês"
+        },
+        {
+          "text": "Quero fazer a matrícula"
+        },
+        {
+          "text": "Quero fazer o curso de francês"
+        },
+        {
+          "text": "Quero fzr o curso de inglês"
+        },
+        {
+          "text": "Quero me inscrever em algum curso"
+        },
+        {
+          "text": "Quero me matricular no curso"
+        },
+        {
+          "text": "Quero realizar minha matrícula no curso de alemão."
+        }
+      ]
+    },
+    {
+      "intent": "nacionalidade_professor",
+      "examples": [
+        {
+          "text": "Há algum professor espanhol?"
+        },
+        {
+          "text": "Há algum professor nativo?"
+        },
+        {
+          "text": "Há algum prof internacional?"
+        },
+        {
+          "text": "Pra que curso teria um professor nativo no idioma?"
+        },
+        {
+          "text": "Quais professores vcs tem pra dar aula?"
+        },
+        {
+          "text": "Queria um professor estrangeiro"
+        },
+        {
+          "text": "Só há prof do brasil?"
+        },
+        {
+          "text": "Só tem professores brasileiros?"
+        },
+        {
+          "text": "Tem algum curso com professor nativo na língua?"
+        },
+        {
+          "text": "Tem algum professor nativo pra dar aula?"
+        },
+        {
+          "text": "Tem prof americano?"
+        },
+        {
+          "text": "Tem professor alemão?"
+        },
+        {
+          "text": "Tem Professor francês?"
+        },
+        {
+          "text": "Tem professor gringo?"
+        },
+        {
+          "text": "Tem professor nativo?"
+        },
+        {
+          "text": "Tem um professor espanhol?"
+        },
+        {
+          "text": "Teria algum professor nativo ?"
+        },
+        {
+          "text": "Teria algum prof nativo pra dar aula?"
+        },
+        {
+          "text": "Vcs tem prof nativo?"
+        },
+        {
+          "text": "Vocês tem prof estrangeiro pra dar aula?"
+        }
+      ]
+    },
+    {
+      "intent": "renegociacao_de_prazo_do_contrato",
+      "examples": [
+        {
+          "text": "Até quando posso realizar as minhas aulas"
+        },
+        {
+          "text": "Como solicitar mudança no meu tempo de contrato"
+        },
+        {
+          "text": "Dá para alterar o prazo do meu contato"
+        },
+        {
+          "text": "Dá para mudar o período do meu contrato"
+        },
+        {
+          "text": "Dá para negociar o prazo do meu contrato"
+        },
+        {
+          "text": "Meu prazo de contrato é vigente até quando"
+        },
+        {
+          "text": "Não consigo realizar as aulas no prazo que está no contrato"
+        },
+        {
+          "text": "Não vou conseguir cumprir meu prazo do contrato"
+        },
+        {
+          "text": "Não vou conseguir cumprir meu prazo para realizar as aulas"
+        },
+        {
+          "text": "Posso alterar o meu prazo para realizar as aulas"
+        },
+        {
+          "text": "Posso estender meu prazo de contrato"
+        },
+        {
+          "text": "Posso renegociar o meu prazo de contrato"
+        },
+        {
+          "text": "Posso solicitar paralisação do meu contrato"
+        },
+        {
+          "text": "Posso solicitar prorrogação do meu prazo de contrato"
+        },
+        {
+          "text": "Posso trancar temporariamente minha matrícula?"
+        },
+        {
+          "text": "Preciso alterar o prazo do meu contrato"
+        },
+        {
+          "text": "Preciso de mais tempo para o meu contrato"
+        },
+        {
+          "text": "Qual o prazo vigente do meu contrato"
+        },
+        {
+          "text": "Quero aumentar o prazo do meu contrato"
+        },
+        {
+          "text": "Quero saber sobre o prazo do meu contrato"
+        }
+      ]
+    },
+    {
+      "intent": "renovacao_matricula",
+      "examples": [
+        {
+          "text": "Como eu faço a renovação da matricula?"
+        },
+        {
+          "text": "Como faço para renovar minha matricula?"
+        },
+        {
+          "text": "Como fazer a renovação da matricula?"
+        },
+        {
+          "text": "Como renovo a matricula?"
+        },
+        {
+          "text": "Continuar curso"
+        },
+        {
+          "text": "Da para renovar a matricula?"
+        },
+        {
+          "text": "Gostaria de continuar o meu curso"
+        },
+        {
+          "text": "Gostaria de saber como renovar a matricula"
+        },
+        {
+          "text": "Onde vejo pra renovação de matriculas?"
+        },
+        {
+          "text": "O que preciso fazer para renovar a minha matricula"
+        },
+        {
+          "text": "Preciso renovar a minha matricula"
+        },
+        {
+          "text": "Quais passos devo seguir para renovar a matricula?"
+        },
+        {
+          "text": "Queria renovar minha matricula"
+        },
+        {
+          "text": "Quero continuar o curso"
+        },
+        {
+          "text": "Quero renovar minha matricula"
+        },
+        {
+          "text": "Quero saber como renovar a matricula"
+        },
+        {
+          "text": "Renovação de matricula"
+        },
+        {
+          "text": "Renovação matricula"
+        },
+        {
+          "text": "Renovar matricula"
+        },
+        {
+          "text": "Tenho que renovar minha matricula"
+        }
+      ]
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "Boa madrugada"
+        },
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "Buenas"
+        },
+        {
+          "text": "Buenos"
+        },
+        {
+          "text": "E ai, beleza?"
+        },
+        {
+          "text": "E aí cara"
+        },
+        {
+          "text": "E ai mano?"
+        },
+        {
+          "text": "Ei"
+        },
+        {
+          "text": "Fala ai"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hola"
+        },
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Ola"
+        },
+        {
+          "text": "Olá"
+        },
+        {
+          "text": "Opa"
+        },
+        {
+          "text": "Salve"
+        }
+      ]
+    },
+    {
+      "intent": "valores_e_formas_de_pagamento",
+      "examples": [
+        {
+          "text": "Como posso pagar?"
+        },
+        {
+          "text": "Formas de pagamento"
+        },
+        {
+          "text": "Gostaria de saber os valores de curso."
+        },
+        {
+          "text": "Gostaria de ver os valores, você pode me mandar?"
+        },
+        {
+          "text": "Quais os valores de curso de francês?"
+        },
+        {
+          "text": "Quais são as formas de pagamento?"
+        },
+        {
+          "text": "Quais são os preços dos cursos?"
+        },
+        {
+          "text": "Qual o valor da aula de inglês?"
+        },
+        {
+          "text": "Qual o valor das aulas?"
+        },
+        {
+          "text": "Qual o valor do curso de inglês?"
+        },
+        {
+          "text": "Qual o valor dos cursos?"
+        },
+        {
+          "text": "Qual seria o preço das aulas de espanhol?"
+        },
+        {
+          "text": "Que formas tem para pagar o curso?"
+        },
+        {
+          "text": "Queria ver as formas de pagamento do curso e valores"
+        },
+        {
+          "text": "Quero saber os valores"
+        },
+        {
+          "text": "Sou ex aluna, tem algum desconto pras aulas?"
+        },
+        {
+          "text": "Tem algum desconto?"
+        },
+        {
+          "text": "Tem como a gente negociar os valores de curso?"
+        },
+        {
+          "text": "Tem como por outra forma de pagamento?"
+        },
+        {
+          "text": "To sem grana"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cursos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Alemão",
+          "synonyms": [
+            "alemaes",
+            "alemães",
+            "alemanha",
+            "alemao",
+            "germany"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Espanhol",
+          "synonyms": [
+            "castelhano",
+            "castellano",
+            "espanha"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Francês",
+          "synonyms": [
+            "frança",
+            "frances"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Inglês",
+          "synonyms": [
+            "americanes",
+            "English",
+            "ingles",
+            "ingreis"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "motivos_cancelamento",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Dividas",
+          "synonyms": [
+            "1",
+            "divida",
+            "endividado",
+            "no money",
+            "pobre",
+            "sem dinheiro"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mudança de país",
+          "synonyms": [
+            "8",
+            "intercambio",
+            "ir pro exterior",
+            "mudar de pais",
+            "sair do pais"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não consigo ir até a aula presencial",
+          "synonyms": [
+            "3",
+            "nao da",
+            "não posso",
+            "n consigo chegar a tempo",
+            "n consigo ir"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não gostei da aula online",
+          "synonyms": [
+            "6",
+            "detestei",
+            "devagar",
+            "enrolação",
+            "fraca",
+            "lenta",
+            "não curti",
+            "não gostei da aula a distância",
+            "não me adaptei",
+            "Não to gostando",
+            "n gostei do ead",
+            "odiei a aula online",
+            "odiei o ead"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não gostei da aula presencial",
+          "synonyms": [
+            "5",
+            "besteira",
+            "detestei a aula presencial",
+            "enrolação",
+            "fraca",
+            "lenta",
+            "mta perda de tempo",
+            "muito devagar",
+            "Não to gostando",
+            "odiei a aula presencial",
+            "tempo perdido"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não gostei do curso",
+          "synonyms": [
+            "2",
+            "achei fraco",
+            "detestei o curso",
+            "não curti",
+            "não me adaptei",
+            "Não to gostando",
+            "n gostei",
+            "odiei o curso"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não gostei do professor",
+          "synonyms": [
+            "4",
+            "não curti o prof",
+            "nao gostei do professor",
+            "Não to gostando",
+            "n fui com a cara do professor",
+            "n gostei do prof",
+            "n gostei do professor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não quero mais estudar",
+          "synonyms": [
+            "9",
+            "nao quero",
+            "nao quero mais fazer",
+            "naum quero",
+            "naum queru",
+            "n kero",
+            "nn quero mais estudar",
+            "n qero",
+            "n quero",
+            "quero desistir",
+            "quero parar"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não quero mais estudar o idioma",
+          "synonyms": [
+            "7",
+            "n quero mais esse idioma",
+            "quero mudar de lingua",
+            "quero mudar pro curso de ",
+            "quero outro idioma"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "semestre_curso",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Mais da metade",
+          "synonyms": [
+            "3",
+            "4",
+            "quarto",
+            "quatro",
+            "terceiro",
+            "três"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Menos da metade",
+          "synonyms": [
+            "1",
+            "2",
+            "Dois",
+            "Primeiro",
+            "Segundo",
+            "Um"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sentimentos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "negativo",
+          "synonyms": [
+            "bad",
+            "blé",
+            "cabisbaixo",
+            "chateado",
+            "desanimado",
+            "estou chorando",
+            "estou mal",
+            "estou na merda",
+            "frustrada",
+            "frustrado",
+            "horrendo",
+            "horrivel",
+            "horroroso",
+            "infeliz",
+            "mal",
+            "mals",
+            "malz",
+            "mau",
+            "mt mal",
+            "mt ruim",
+            "mt triste",
+            "nada vai bem",
+            "na merda",
+            "nup",
+            "pior que tá não fica",
+            "ruim",
+            "sad",
+            "sei lá",
+            "to chorando",
+            "to malz",
+            "to mto mal",
+            "to muito triste",
+            "to na bosta",
+            "to na fossa",
+            "to na merda",
+            "to triste",
+            "triste",
+            "tristin",
+            "tristinho",
+            "tristito",
+            "tudo péssimo",
+            "vai indo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "positivo",
+          "synonyms": [
+            "afortunado",
+            "afortunoso",
+            "alegre",
+            "amazing",
+            "bad",
+            "bem",
+            "bien",
+            "bom",
+            "certo e ai?",
+            "contente",
+            "de boas",
+            "de boas e ai?",
+            "de buenas e cntg?",
+            "espetacular",
+            "esplendido",
+            "estou bem",
+            "estou me sentindo extraordinário",
+            "feliz",
+            "good",
+            "incrivel",
+            "maravilhoso",
+            "muitissimo bem",
+            "muito bem",
+            "muito bom",
+            "muy bien",
+            "ótimo",
+            "próspero",
+            "risonho",
+            "tudo bem",
+            "tudo bem e contigo?",
+            "tudo certo",
+            "tudo certo e por ai?",
+            "tudo e ai?",
+            "tudo e cntg?",
+            "tudo e com você?",
+            "wonderful",
+            "yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim_nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nao",
+          "synonyms": [
+            "errado",
+            "incorreto",
+            "n",
+            "não",
+            "negativo",
+            "nn",
+            "no",
+            "nops",
+            "not okay"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "beleza",
+            "certo",
+            "correto",
+            "fechado",
+            "fechou",
+            "ok",
+            "oka",
+            "okay",
+            "positivo",
+            "s",
+            "si",
+            "sim",
+            "yeah",
+            "yep",
+            "yes"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sugestoes_cancelamento",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Aula online",
+          "synonyms": [
+            "aula a distancia",
+            "aula EAD",
+            "on-line"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Parcelamento de dívida",
+          "synonyms": [
+            "parcelamento de dívida",
+            "parcelar divida"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sugestões de cursos",
+          "synonyms": [
+            "outros cursos",
+            "sugestão de curso"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "frame",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Desculpe. No momento só tratamos os seguintes tópicos:\n\n1 - Cancelamento de matrícula,\n2 - Tipos de curso e duração do mesmo,\n3 - Duração contratual e termos de contrato,\n4 - Formas de atendimento e horário de atendimento,\n5 - Horário de funcionamento da escola,\n6 - Matrículas,\n7 - Informações sobre os professores (nacionalidades, idiomas das aulas, etc),\n8 - Renovação de matrícula\n9 - Valores e formas de pagamento,\n10 - Renegociação de prazo do contrato,\n11 - Localização da escola física.\n\nSe precisar de informações fora desse tópico, pode entrar em contato pelas seguintes plataformas:\n\nE-mail -> cursosidiomas@cursosidiomas.com.br\nTelefone -> (11) 2222-2222\nWhatsapp -> (11) 94444-4444"
+              },
+              {
+                "text": "Desculpe, não entendi, pode dizer de outra forma?"
+              },
+              {
+                "text": "Não consegui entender, mil perdões, favor entrar em contato por um destes meios:\n\nE-mail -> cursosidiomas@cursosidiomas.com.br -> 08:00 às 21:00\nTelefone -> (11) 2222-2222 -> 08:00 às 21:00\nWhatsapp -> (11) 94444-4444 -> 08:00 às 21:00"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em algum dos temas citados? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "Em outros casos",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1592828944309",
+      "digress_out_slots": "not_allowed",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Que ótimo!!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1592828658709",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1592828658711",
+      "previous_sibling": "handler_5_1592828658711"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_8_1592827203580",
+      "event_name": "input",
+      "dialog_node": "handler_1_1592827203594"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1592865178251",
+      "context": {
+        "motivos_cancelamento": "@motivos_cancelamento"
+      },
+      "conditions": "@motivos_cancelamento",
+      "event_name": "input",
+      "dialog_node": "handler_1_1592865178253"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1592827203580",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1592827203594",
+      "previous_sibling": "handler_1_1592827203594"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_10_1592838940684",
+      "event_name": "input",
+      "dialog_node": "handler_3_1592838940692"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1592828658709",
+      "context": {
+        "sentimentos_bem": "@sentimentos:bem"
+      },
+      "conditions": "@sentimentos:bem",
+      "event_name": "input",
+      "dialog_node": "handler_5_1592828658711"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1592828690422",
+      "context": {
+        "sentimentos_": "@sentimentos:mal"
+      },
+      "conditions": "@sentimentos:mal",
+      "event_name": "input",
+      "dialog_node": "handler_6_1592828690425"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1592828690422",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1592828690425",
+      "previous_sibling": "handler_6_1592828690425"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1592838940684",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1592838940692",
+      "previous_sibling": "handler_3_1592838940692"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Cite o motivo de cancelamento:\n\n1 - Dívidas,\n2 - Não gostou do curso,\n3 - Não consegue ir até a aula presencial,\n4 - Não gostou do professor,\n5 - Não gostou da aula presencial,\n6 - Não gostou da aula online,\n7 - Não quer mais estudar o idioma,\n8 - Vai mudar para outro país. \n9 - Nao quero mais estudar"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1592865178251",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1592865178253",
+      "previous_sibling": "handler_1_1592865178253"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaa. Pode falar, estou pronto para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592789656233",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_10_1592877763694"
+    },
+    {
+      "type": "standard",
+      "title": "Continuar matricula (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa... que pena. Já estava empolgado com sua presença na nossa escola :/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas tudo bem! Posso ajudar em mais alguma coisa?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789586414",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_10_1592879750862",
+      "previous_sibling": "node_7_1592878303164"
+    },
+    {
+      "type": "standard",
+      "title": "Saudação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, como está?!"
+              },
+              {
+                "text": "Oláááá, como estás?!"
+              },
+              {
+                "text": "Oi, está bem?"
+              },
+              {
+                "text": "Olá, está bem?"
+              },
+              {
+                "text": "E aí, como vai??"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#saudacao",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592789245363",
+      "previous_sibling": "node_2_1592948524642"
+    },
+    {
+      "type": "standard",
+      "title": "Matricula",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "MUITO BOM!!! Ótimo saber que quer se matricular na nossa escola, tenho certeza que irá gostar =)\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Porém, por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "\nMas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#matricula",
+      "dialog_node": "node_1_1592789509938",
+      "previous_sibling": "node_5_1592789550810"
+    },
+    {
+      "type": "standard",
+      "title": "Valores e formas de pagamento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os valores dos cursos são:\n\nInglês -> 400 reais mensais.\nFrancês -> 600 reais mensais.\nEspanhol -> 400 reais mensais.\nAlemão -> 600 reais mensais.\n\nInclusas apostilas e materiais de apoio.\n\nO professor é você quem escolhe, nativo ou o que você preferir :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "As formas de pagamento são as seguintes:\n\nCartão de crédito.\nCartão de débito.\nBoleto.\n\nComo você preferir =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "E ai, gostaria de estudar na nossa escola? Não perca tempo e junte-se a nós :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#valores_e_formas_de_pagamento",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592789726484",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1592789245363"
+    },
+    {
+      "type": "standard",
+      "title": "Agradecimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Qualquer coisa estou a disposição! =)"
+              },
+              {
+                "text": "Até! Foi um prazer."
+              },
+              {
+                "text": "Goodbye =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#agradecimento",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592827461699",
+      "previous_sibling": "node_9_1592789686624"
+    },
+    {
+      "type": "standard",
+      "title": "Despedida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Até mais!! =)"
+              },
+              {
+                "text": "Goodbye :D"
+              },
+              {
+                "text": "Adios"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592828944309",
+      "previous_sibling": "node_1_1592827461699"
+    },
+    {
+      "type": "standard",
+      "title": "Sentimento negativo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa, que pena... vai melhorar, sempre melhora :/"
+              },
+              {
+                "text": "Putz... isso que é foda."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas já que estamos aqui... em que posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789245363",
+      "conditions": "@sentimentos:negativo",
+      "dialog_node": "node_1_1592829265286",
+      "previous_sibling": "node_5_1592829199525"
+    },
+    {
+      "type": "frame",
+      "title": "Cancelamento de matrícula",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#cancelamento_matricula",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1592860824320",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1592789586414"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1592789616242",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_1_1592880018595",
+      "previous_sibling": "node_8_1592879997186"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Digaaaaa... será um prazer ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789632812",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_1_1592916462023"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaa, é só falar, estou aqui para ajudar =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592789686624",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_1_1592919855487"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592789686624",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_1_1592919887090",
+      "previous_sibling": "node_1_1592919855487"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaaaa, pode falar. Estou aqui para ajudar =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_1_1592924989243"
+    },
+    {
+      "type": "standard",
+      "title": "Horário de funcionamento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nós funcionamos de segunda a sexta, das 07:00 até as 20:00. PORÉM...\n\nDevido a pandemia, nossa escola se encontra fechada no momento, estamos somente com aulas online, caso queira tirar alguma dúvida ou tratar de algum assunto podemos falar por aqui, estou disponível por 24 horas, 7 dias da semana =D."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Ou também pode entrar em contato através de outras plataformas...\n\nVou te passar alguns contatos da escola.\n\nE-mail -> cursosidiomas@cursosidiomas.com.br\nTelefone -> (11) 2222-2222\nWhatsapp -> (11) 94444-4444"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#horario_de_funcionamento_da_escola_fisica",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1592789656233",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1592789673120"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592789709669",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_2_1592839188055",
+      "previous_sibling": "node_7_1592839164667"
+    },
+    {
+      "type": "standard",
+      "title": "Seguir matricula (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "QUE MARAVILHA!!!! Eu resolvo até aqui..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789726484",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_2_1592877003962"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok. Obrigado pelo contato. Qualquer coisa estou a disposição!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1592879750862",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_2_1592879833308",
+      "previous_sibling": "node_5_1592879809431"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaaaaa. Diga, estou aqui para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789509938",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_2_1592919376969"
+    },
+    {
+      "type": "standard",
+      "title": "Contatos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nossos contatos são os seguintes:\n\n\nE-mail -> cursosidiomas@cursosidiomas.com.br\nTelefone -> (11) 2222-2222\nWhatsapp -> (11) 94444-4444"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostaria de saber mais alguma coisa? Estou aqui para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#contato",
+      "dialog_node": "node_2_1592948524642",
+      "previous_sibling": "node_4_1592789370675"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1592789550810",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_2_1592949422060",
+      "previous_sibling": "node_9_1592949406357"
+    },
+    {
+      "type": "standard",
+      "title": "Cursos e Duração",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos os seguintes cursos disponíveis no momento:\n\nAlemão, Francês, Inglês e Espanhol. Todos com duração de QUATRO semestres, nas plataformas online e presencial. Os valores variam de 400 a 600 reais e o o professor é você quem escolhe. Quer coisa melhor? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Ah... devido à pandemia de COVID-19, estamos com aulas apenas online. Porém, assim que a quarentena acabar iremos começar a retornar com as aulas presenciais. Isso tudo será avisado antecipadamente através dos contatos que vocês alunos nos disponibilizarem :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Enfim... se interessou por algum curso? Podemos prosseguir para a matricula?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#cursos_e_duracao",
+      "dialog_node": "node_3_1592789586414",
+      "previous_sibling": "node_6_1592789616242"
+    },
+    {
+      "type": "standard",
+      "title": "Formas de atendimento e horário de atendimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu te atenderei 24 horas por dia, 7 dias por semana :D\n\nJá o nosso atendimento em outras plataformas funciona da seguinte maneira..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "E-mail -> cursosidiomas@cursosidiomas.com.br -> 07:00 às 20:00\nTelefone -> (11) 2222-2222 -> 07:00 às 20:00\nWhatsapp -> (11) 94444-4444 -> 07:00 às 20:00\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? É só perguntar, estou aqui para ajudar =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#formas_e_horas_de_atendimento",
+      "dialog_node": "node_3_1592789632812",
+      "previous_sibling": "node_2_1592789656233"
+    },
+    {
+      "type": "standard",
+      "title": "Nacionalidade dos professores",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos professores nativos de todos os cursos que disponibilizamos..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "5 alemães -> 2 dão aula presencial e 3 apenas online. Aulas de alemão para quem se interessar e de português para alemães (ou quem falar alemão).\n\n4 ingleses e 5 americanos -> 2 ingleses e os 5 americanos dão aulas presenciais, o resto apenas online. Aulas de inglês para quem se interessar e de português para quem falar inglês."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "3 espanhois e 2 argentinos -> Todos dão aulas presenciais e online. Aulas de espanhol para quem se interessar e de português para quem falar espanhol.\n\n1 canadense e 3 franceses -> 2 franceses dão aula presencial e o resto apenas online. Aulas de francês para quem se interessar e de português para quem falar francês."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostaria de mais informações sobre cursos, matricula e afins? É só perguntar... estou aqui para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#nacionalidade_professor",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1592789673120",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1592789709669"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Diga lá... estou pronto para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592877041742",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_3_1592877134478"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Diga lá... estou pronto para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592877003962",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_3_1592877219828"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789509938",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_3_1592919449558",
+      "previous_sibling": "node_2_1592919376969"
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bem vindo! Sou o atterbot e estou aqui para informa-lo sobre os seguintes temas:\n\n- Cancelamento de matrícula,\n- Tipos de curso e duração do mesmo,\n- Duração contratual e termos de contrato,\n- Formas de atendimento e horário de atendimento,\n- Horário de funcionamento da escola,\n- Matrículas,\n- Informações sobre os professores (nacionalidades, idiomas das aulas, etc),\n- Renovação de matrícula\n- Valores e formas de pagamento,\n- Renegociação de prazo do contrato,\n- Localização da escola física.\n\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "values": [
+              {
+                "text": "Espero conseguir ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "node_4_1592789370675"
+    },
+    {
+      "type": "standard",
+      "title": "Endereço",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ficamos na Avenida Paulista, 1888. Próximo à estação Trianon Masp. :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2444387473206!2d-46.660542285384025!3d-23.559662867413888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59cdada4e19b%3A0xeaa64c0fe490798c!2sAv.%20Paulista%2C%201888%20-%20Bela%20Vista%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001310-200!5e0!3m2!1spt-BR!2sbr!4v1593011321881!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#endereco",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1592789550810",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1592860824320"
+    },
+    {
+      "type": "standard",
+      "title": "Sentimento positivo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Que ótimo!! Fico muito feliz em ler isso!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Em que posso ajudar?? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789245363",
+      "conditions": "@sentimentos:positivo",
+      "dialog_node": "node_5_1592829199525"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Diga... estou aqui para ajudar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1592879750862",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_5_1592879809431"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_5_1592925016976",
+      "previous_sibling": "node_1_1592924989243"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaa. Pode falar... estou pronto para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592948524642",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_5_1592948789219"
+    },
+    {
+      "type": "standard",
+      "title": "Duração contratual e termos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação de renovação de matrícula."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#duracao_contratual_e_termos",
+      "dialog_node": "node_6_1592789616242",
+      "previous_sibling": "node_3_1592789632812"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ótimo. Em que posso ajudar?? =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592827461699",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_6_1592837635420"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Digaaaaa. Estou pronto para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592878303164",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_6_1592879690742"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaa. Pode falar... estou pronto para ajudar :D\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789673120",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_6_1592949361014"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Digaaaaa. Em que mais posso ajudar? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592789709669",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_7_1592839164667"
+    },
+    {
+      "type": "standard",
+      "title": "Seguir matricula (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa, que pena... tenho certeza que aprenderia muito conosco e gostaria bastante :("
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas tudo bem! Posso ajudar em mais alguma coisa??"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592789726484",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_7_1592877041742",
+      "previous_sibling": "node_2_1592877003962"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592877003962",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_7_1592877239219",
+      "previous_sibling": "node_3_1592877219828"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592789656233",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_7_1592877790592",
+      "previous_sibling": "node_10_1592877763694"
+    },
+    {
+      "type": "standard",
+      "title": "Continuar matricula (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "QUE MARAVILHA!!!! Muito bom ler isso. Sei que irá gostar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Porém, por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação de cancelamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789586414",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_7_1592878303164"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592878303164",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_7_1592879715755",
+      "previous_sibling": "node_6_1592879690742"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789632812",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_7_1592916496710",
+      "previous_sibling": "node_1_1592916462023"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592877041742",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_8_1592877182441",
+      "previous_sibling": "node_3_1592877134478"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Digaaaaaa. Estou aqui para ajudar :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1592789616242",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_8_1592879997186"
+    },
+    {
+      "type": "standard",
+      "title": "Renegociação de prazo de contrato",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação de renovação de matrícula."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#renegociacao_de_prazo_do_contrato",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1592789686624",
+      "previous_sibling": "node_1_1592789509938"
+    },
+    {
+      "type": "standard",
+      "title": "Renovação de matrícula",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação de renovação de matrícula."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar das 07:00 as 20:00:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#renovacao_matricula",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1592789709669",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1592789726484"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem! Obrigado pelo contrato, qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592827461699",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_9_1592837685808",
+      "previous_sibling": "node_6_1592837635420"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592948524642",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_9_1592948824496",
+      "previous_sibling": "node_5_1592948789219"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (nao)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem. Obrigado pelo contato. Qualquer coisa estou a disposição! =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592789673120",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_9_1592949382685",
+      "previous_sibling": "node_6_1592949361014"
+    },
+    {
+      "type": "standard",
+      "title": "Mais alguma coisa (sim)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opaaaaa. Pode falar... estou pronto para ajudar :D\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1592789550810",
+      "conditions": "@sim_nao:sim",
+      "dialog_node": "node_9_1592949406357"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa, temos aulas online. Terá um desconto considerável no valor do curso e poderá assistir as aulas no conforto da sua casa. Gostaria de experimentar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não gostei da aula presencial)",
+      "dialog_node": "response_10_1592865977324",
+      "previous_sibling": "response_1_1592865919389"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Podemos trocar o idioma do curso, pode escolher qual você quiser. O que acha? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não quero mais estudar o idioma)",
+      "dialog_node": "response_10_1592866007423",
+      "previous_sibling": "response_5_1592865992986"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos a opção de parcelamento de dívidas, seria interessante para o seu caso? Pode ajudar..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:Dividas",
+      "dialog_node": "response_1_1592864130969",
+      "previous_sibling": "slot_9_1592865178251"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Podemos mudar o professor. Temos nativos no idioma que você desejar. O que acha?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não gostei do professor)",
+      "dialog_node": "response_1_1592865919389",
+      "previous_sibling": "response_2_1592865375066"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Boa madrugada! Em que posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592789370675",
+      "disabled": true,
+      "conditions": "now().before('06:00:00')",
+      "dialog_node": "response_2_1592792513796",
+      "previous_sibling": "response_8_1592792451405"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa, temos aulas online, gostaria de experimentar? Terá um desconto considerável no valor do curso e poderá assistir as aulas no conforto da sua casa. :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não consigo ir até a aula presencial)",
+      "dialog_node": "response_2_1592865375066",
+      "previous_sibling": "response_4_1592864192755"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Poxa, temos aulas online, gostaria de experimentar? Terá um desconto considerável no valor do curso e poderá assistir as aulas no conforto da sua casa. :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Mudança de país)",
+      "dialog_node": "response_2_1592923768930",
+      "previous_sibling": "response_10_1592866007423"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bom dia! Em que posso ajudar?"
+              },
+              {
+                "text": "Oláááá, tudo certo?! Gostaria de ajuda em algo?"
+              },
+              {
+                "text": "Oi, tudo bem? Posso ajudar em algo?"
+              },
+              {
+                "text": "Olá, tudo bem?! Posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592789370675",
+      "disabled": true,
+      "conditions": "now().before('12:00:00')",
+      "dialog_node": "response_4_1592792403436"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos a opção de troca de curso, gostaria de experimentar? Sairá pelo mesmo valor e será necessário apenas assinar um novo contrato. O que acha? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não gostei do curso)",
+      "dialog_node": "response_4_1592864192755",
+      "previous_sibling": "response_1_1592864130969"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Boa tarde! Em que posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592789370675",
+      "disabled": true,
+      "conditions": "now().before('18:00:00')",
+      "dialog_node": "response_5_1592792450292",
+      "previous_sibling": "response_4_1592792403436"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos a opção de troca para aula presencial. Terá apenas um reajuste no valor do curso, mas pode experimentar. O que acha? :D"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Pelo sim ou pelo não... por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não gostei da aula online)",
+      "dialog_node": "response_5_1592865992986",
+      "previous_sibling": "response_10_1592865977324"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Boa noite! Em que posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592789370675",
+      "disabled": true,
+      "conditions": "now().before('00:00:00')",
+      "dialog_node": "response_8_1592792451405",
+      "previous_sibling": "response_5_1592792450292"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem... porém, por sermos uma empresa terceirizada, ainda não temos acesso ao banco de dados da escola para concluir sua solicitação de cancelamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Mas não quer dizer que não podemos te ajudar... temos um contato especial para você ligar:\n\n(11) 2222-2222."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Assim que você ligar, já saberão que foi indicada(o) por mim e eles consiguirão te auxiliar melhor nessa tarefa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso ajudar em mais alguma coisa? Estou a disposição =)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592860824320",
+      "conditions": "@motivos_cancelamento:(Não quero mais estudar)",
+      "dialog_node": "response_9_1593037965952",
+      "previous_sibling": "response_2_1592923768930"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1592789245363",
+      "variable": "$sentimentos_",
+      "dialog_node": "slot_10_1592828690422",
+      "previous_sibling": "slot_4_1592828658709"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1592789709669",
+      "dialog_node": "slot_10_1592838940684",
+      "previous_sibling": "node_2_1592839188055"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1592789245363",
+      "variable": "$sentimentos_bem",
+      "dialog_node": "slot_4_1592828658709",
+      "previous_sibling": "node_1_1592829265286"
+    },
+    {
+      "type": "slot",
+      "parent": "Em outros casos",
+      "dialog_node": "slot_8_1592827203580"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1592860824320",
+      "variable": "$motivos_cancelamento",
+      "dialog_node": "slot_9_1592865178251",
+      "previous_sibling": "node_5_1592925016976"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Atterbot",
+  "language": "pt-br",
+  "description": ""
+}
